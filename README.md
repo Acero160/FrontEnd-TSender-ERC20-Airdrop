@@ -1,6 +1,8 @@
 # TSENDER-UI
 
 Frontend interface for an ERC20 Airdrop platform inspired by [tsender.com](https://t-sender.com/), built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+![tsender](https://github.com/user-attachments/assets/8dfc9eed-137e-4dce-ad91-b500eff06d81)
+
 
 ## ✨ Features
 
